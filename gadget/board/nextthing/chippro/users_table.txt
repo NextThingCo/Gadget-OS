@@ -1,2 +1,0 @@
--       -1  sudo    -1  -       -           -
-chip    -1  chip    -1   =chip  /home/chip  /bin/sh users,sudo,docker,bluetooth   C.H.I.P. user
